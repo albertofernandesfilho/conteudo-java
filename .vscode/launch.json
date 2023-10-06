@@ -1,0 +1,76 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EntradaDados",
+            "request": "launch",
+            "mainClass": "Argumento.EntradaDados",
+            "projectName": "conteudo-java_235f670b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "conteudo-java_235f670b",
+            "args": [
+                "Alberto",
+                "Fernandes",
+                "37",
+                "1.97"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "Argumento.MinhaClasse",
+            "projectName": "conteudo-java_235f670b"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "Classes.MinhaClasse",
+            "projectName": "conteudo-java_235f670b"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "Documentacao.Comentarios",
+            "projectName": "conteudo-java_235f670b"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "Metodos.Metodos",
+            "projectName": "conteudo-java_235f670b"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Metodos.Usuario",
+            "projectName": "conteudo-java_235f670b"
+        },
+        {
+            "type": "java",
+            "name": "MeuOperador",
+            "request": "launch",
+            "mainClass": "Operadores.MeuOperador",
+            "projectName": "conteudo-java_235f670b"
+        }
+    ]
+}
